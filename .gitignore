@@ -1,8 +1,8 @@
 .gradle
 # build/
 settings.gradle
-gradlew
-gradlew/
+# gradlew
+# gradlew/
 *.bat
 
 ### IntelliJ IDEA ###
